@@ -9,7 +9,7 @@
 </p>
 
 <!-- GIF -->
-<img align="right" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" alt="Coder GIF" width="350" height="200" style="margin-top: 20px;">
+<img align="right" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" alt="Coder GIF" width="350" height="200" style="margin-top: 25px; margin-bottom: 10px;">
 
 
 ---
