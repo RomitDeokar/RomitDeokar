@@ -53,6 +53,11 @@
 ![YOLO](https://img.shields.io/badge/YOLO-FF5733?style=for-the-badge&logo=appveyor&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6F42C1?style=for-the-badge&logo=google&logoColor=white)
 
+### ⚡ Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-1B1B1B?style=for-the-badge&logo=gradio&logoColor=white)
 
 ### 🗄️ Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
@@ -89,13 +94,6 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-0C7B93?style=for-the-badge&logo=autohotkey&logoColor=white)
-
-### ⚡ Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-
-
-
 
 ### 💻 Operating Systems  
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
