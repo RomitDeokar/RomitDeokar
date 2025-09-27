@@ -101,7 +101,7 @@
 ---
 
 ## 🐍 Contribution Snake  
-![Snake animation](https://github.com/RomitDeokar/Romit-GithubIntro/blob/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/RomitDeokar/Romit-GithubIntro/refs/heads/master/snake.svg)
 
 
 
@@ -132,3 +132,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
+
