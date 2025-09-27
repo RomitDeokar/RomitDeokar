@@ -24,6 +24,15 @@
 
 ---
 
+---
+
+## 🐍 Contribution Snake  
+![Snake animation](https://raw.githubusercontent.com/RomitDeokar/Romit-GithubIntro/refs/heads/master/snake.svg)
+
+
+
+---
+
 ## 🛠️ Tech Stack  
 
 ### 💻 Programming Languages  
