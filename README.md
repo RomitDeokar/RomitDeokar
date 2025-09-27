@@ -61,6 +61,14 @@
 ![TablePlus](https://img.shields.io/badge/TablePlus-2A9D8F?style=for-the-badge&logo=tableplus&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FFBF00?style=for-the-badge&logo=python&logoColor=white)
 
+### 🌐 APIs & Networking
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-61DAFB?style=for-the-badge&logo=rest-api&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-0082C9?style=for-the-badge&logo=websocket&logoColor=white)
+
 ### ☁️ DevOps & Cloud  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
