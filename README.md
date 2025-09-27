@@ -101,7 +101,7 @@
 ---
 
 ## 🐍 Contribution Snake  
-![Snake animation](https://github.com/RomitDeokar/Romit-GithubIntro/.github/workflows/snake.yml)
+![Snake animation](https://github.com/RomitDeokar/Romit-GithubIntro/snake.svg)
 
 
 
