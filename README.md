@@ -52,6 +52,7 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-FF5733?style=for-the-badge&logo=appveyor&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6F42C1?style=for-the-badge&logo=google&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-7928CA?style=for-the-badge&logoColor=white)
 
 ### ⚡ Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -82,6 +83,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Ngrok](https://img.shields.io/badge/Ngrok-29B4E4?style=for-the-badge&logo=ngrok&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-00AEEF?style=for-the-badge&logo=render&logoColor=white)
 
