@@ -5,11 +5,11 @@
 
 <!-- Profile Views -->
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mdnm18&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=RomitDeokar&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views" /> 
 </p>
 
 <!-- GIF -->
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="320">
+<img align="right" src="https://giphy.com/gifs/reddit-doing-lJNoBCvQYp7nq" alt="Coder GIF" width="400" height="320">
 
 ---
 
@@ -101,7 +101,7 @@
 ---
 
 ## 🎉 Fun Corner  
-💬 *"Code is like humor. When you have to explain it, it’s bad."* 😆  
+💬 *"Every time I fix a bug, two new ones respawn. Hydra-driven development 🐍"* 😆  
 
 ---
 
@@ -113,13 +113,11 @@
   <a href="https://github.com/mdnm18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://x.com/MD_N_M_18"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://www.instagram.com/md._n.m._india_18"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://youtube.com/@nexttechypixel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="mailto:md.n.m.pius18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:romitdeokar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-📧 **Email:** [md.n.m.pius18@gmail.com](mailto:md.n.m.pius18@gmail.com)  
-📱 **Phone:** +91 894 206 4361  
-💬 **Discord:** [Join Server](YourDiscordInviteLink)
+📧 **Email:** [romitdeokar@gmail.com](mailto:romitdeokar@gmail.com)  
+📱 **Phone:** +91 8977007885 
 
 ---
 
