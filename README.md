@@ -33,7 +33,6 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 ### 🌐 Web Development  
@@ -50,6 +49,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TablePlus](https://img.shields.io/badge/TablePlus-2A9D8F?style=for-the-badge&logo=tableplus&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### ☁️ DevOps & Cloud  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
