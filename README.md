@@ -24,7 +24,6 @@
 
 ---
 
----
 
 ## 🐍 Contribution Snake  
 ![Snake animation](https://raw.githubusercontent.com/RomitDeokar/Romit-GithubIntro/refs/heads/master/snake.svg)
@@ -130,6 +129,8 @@
 
 <!-- Activity Graph -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RomitDeokar&theme=react-dark&hide_border=true&line=00E676&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 
 ## 🎉 Fun Corner  
 💬 *"Every time I fix a bug, two new ones respawn. Hydra-driven development 🐍"* 😆  
