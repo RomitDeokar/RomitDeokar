@@ -9,7 +9,8 @@
 </p>
 
 <!-- GIF -->
-<img align="right" src="https://giphy.com/gifs/reddit-doing-lJNoBCvQYp7nq" alt="Coder GIF" width="400" height="320">
+<img align="right" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" alt="Coder GIF" width="400" height="320">
+
 
 ---
 
