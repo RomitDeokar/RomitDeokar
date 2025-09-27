@@ -115,7 +115,7 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="[PORTFOLIO](https://resumechatbot1-y8jjvwn7gof79bc6euvwch.streamlit.app/)">
+  <a href="https://resumechatbot1-y8jjvwn7gof79bc6euvwch.streamlit.app/">
   <img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
   <a href="https://www.linkedin.com/in/md-nayaj-mondal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
