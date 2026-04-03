@@ -151,15 +151,12 @@
 📱 **Phone:** +91 8977007885 
 
 ---
+## 🎧 Now Playing
+
 <p align="center">
-  <iframe style="border-radius:12px" 
-  src="https://open.spotify.com/embed/playlist/56pjjaAzR83WtV1XYZsKrN?si=gi7clsECQdmBt1pJlv7nhw?utm_source=generator" 
-  width="100%" 
-  height="152" 
-  frameBorder="0" 
-  allowfullscreen="" 
-  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
-  </iframe>
+  <a href="https://open.spotify.com/playlist/56pjjaAzR83WtV1XYZsKrN">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31yourid&cover_image=true&theme=novatorem&background_color=0d1117&bar_color=00E676&bar_color_cover=true" />
+  </a>
 </p>
 
 <!-- Footer -->
