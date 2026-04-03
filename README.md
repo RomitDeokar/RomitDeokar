@@ -151,6 +151,18 @@
 📱 **Phone:** +91 8977007885 
 
 ---
+## 🎵 My Music Vibes
+
+<p align="center">
+  <iframe style="border-radius:12px" 
+  src="https://open.spotify.com/playlist/56pjjaAzR83WtV1XYZsKrN?si=gi7clsECQdmBt1pJlv7nhw" 
+  width="100%" 
+  height="152" 
+  frameBorder="0" 
+  allowfullscreen="" 
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
+  </iframe>
+</p>
 
 <!-- Footer -->
 <p align="center">
