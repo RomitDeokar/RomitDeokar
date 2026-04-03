@@ -151,13 +151,6 @@
 📱 **Phone:** +91 8977007885 
 
 ---
-## 🎧 Now Playing
-
-<p align="center">
-  <a href="https://open.spotify.com/playlist/56pjjaAzR83WtV1XYZsKrN">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31yourid&cover_image=true&theme=novatorem&background_color=0d1117&bar_color=00E676&bar_color_cover=true" />
-  </a>
-</p>
 
 <!-- Footer -->
 <p align="center">
